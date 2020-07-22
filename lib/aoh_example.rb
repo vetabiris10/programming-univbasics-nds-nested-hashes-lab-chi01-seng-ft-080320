@@ -36,6 +36,7 @@ end
 
 def aoh_update(aoh, row, key, new_value)
   ALL_CAPS[0][:occupation] = "new_value"
+  ALL_CAPS
   # Update the AoH data at row and key to have the value of new_value
   # Return the updated AoH
 end
